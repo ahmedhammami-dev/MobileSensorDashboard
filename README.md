@@ -23,7 +23,7 @@ A Unity mobile application that uses device sensors to display live data in real
 4. Connect your mobile device via USB or build for Android/iOS
 5. Press Play to preview live sensor data
 
-##⚙️ Notes
+## ⚙️ Notes
 
 - Ensure your mobile device has the necessary sensors (accelerometer, gyroscope)
 - For Android builds, enable USB debugging
